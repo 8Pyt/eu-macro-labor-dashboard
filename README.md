@@ -2,7 +2,7 @@
 
 # EU Macroeconomic & Labor Market Dashboard (2018–2025)
 
-![Dashboard Overview](assets/Screenshot EU Macro Dashboard.png)
+![Dashboard Overview](assets/dashboard_overview.png)
 
 ## Project Motivation & Analytical Questions
 This project explores recent shifts in the European Union labor market and macroeconomic environment, evaluating whether recent labor market pressures resemble the 2020 shock. By combining unemployment rates with inflation, real wage growth, in-work poverty across age groups, and job vacancy ratios, the dashboard compares how EU countries and regions performed across pre-pandemic, shock, and recent periods.
@@ -30,7 +30,7 @@ All underlying tables originate from **Eurostat** CSV exports covering **2018–
 * `sql/01_build_eu_macro_tables.sql` — MySQL table creation, cleaning, window calculations, and analytical queries
 * `data/` — Dimension and processed CSV tables used for reporting
 * `powerbi/eu_macro_dashboard.pbix` — Interactive Power BI report and data model
-* `assets/Screenshot EU Macro Dashboard.png` — Preview screenshot of the dashboard
+* `assets/dashboard_overview.png` — Preview screenshot of the dashboard
 
 ## Future Improvements
 * Add full-year `2026` Eurostat data once year-end figures are published.
