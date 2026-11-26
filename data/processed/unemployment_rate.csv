@@ -1,0 +1,217 @@
+code,country,euro,sub_region,year,period,unem_pct_labour_force,unem_pct_pop,unem_thsnd
+AT,Austria,1,Western,2018,Pre-COVID,5.2,3.6,237
+AT,Austria,1,Western,2019,Pre-COVID,4.8,3.3,220
+AT,Austria,1,Western,2020,"Pandemic / inflation shock",6,4.1,272
+AT,Austria,1,Western,2021,"Pandemic / inflation shock",6.2,4.2,284
+AT,Austria,1,Western,2022,"Pandemic / inflation shock",4.8,3.3,221
+AT,Austria,1,Western,2023,"Pandemic / inflation shock",5.1,3.5,241
+AT,Austria,1,Western,2024,"Recent / provisional",5.2,3.6,244
+AT,Austria,1,Western,2025,"Recent / provisional",5.7,3.9,270
+BE,Belgium,1,Western,2018,Pre-COVID,6,3.6,305
+BE,Belgium,1,Western,2019,Pre-COVID,5.5,3.3,278
+BE,Belgium,1,Western,2020,"Pandemic / inflation shock",5.8,3.4,291
+BE,Belgium,1,Western,2021,"Pandemic / inflation shock",6.3,3.8,324
+BE,Belgium,1,Western,2022,"Pandemic / inflation shock",5.6,3.4,294
+BE,Belgium,1,Western,2023,"Pandemic / inflation shock",5.5,3.4,294
+BE,Belgium,1,Western,2024,"Recent / provisional",5.7,3.5,306
+BE,Belgium,1,Western,2025,"Recent / provisional",6.2,3.9,339
+BG,Bulgaria,1,CEE,2018,Pre-COVID,6.2,3.8,206
+BG,Bulgaria,1,CEE,2019,Pre-COVID,5.2,3.3,165
+BG,Bulgaria,1,CEE,2020,"Pandemic / inflation shock",6.1,3.7,187
+BG,Bulgaria,1,CEE,2021,"Pandemic / inflation shock",5.2,3.2,157
+BG,Bulgaria,1,CEE,2022,"Pandemic / inflation shock",4.2,2.6,127
+BG,Bulgaria,1,CEE,2023,"Pandemic / inflation shock",4.3,2.7,132
+BG,Bulgaria,1,CEE,2024,"Recent / provisional",4.2,2.6,127
+BG,Bulgaria,1,CEE,2025,"Recent / provisional",3.5,2.2,107
+HR,Croatia,1,CEE,2018,Pre-COVID,8.3,4.7,143
+HR,Croatia,1,CEE,2019,Pre-COVID,6.6,3.7,111
+HR,Croatia,1,CEE,2020,"Pandemic / inflation shock",7.4,4.2,125
+HR,Croatia,1,CEE,2021,"Pandemic / inflation shock",7.5,4.4,128
+HR,Croatia,1,CEE,2022,"Pandemic / inflation shock",6.8,4,117
+HR,Croatia,1,CEE,2023,"Pandemic / inflation shock",6.1,3.6,106
+HR,Croatia,1,CEE,2024,"Recent / provisional",5,3,89
+HR,Croatia,1,CEE,2025,"Recent / provisional",4.9,2.9,87
+CY,Cyprus,1,Southern,2018,Pre-COVID,8.4,5.7,37
+CY,Cyprus,1,Southern,2019,Pre-COVID,7.2,4.9,33
+CY,Cyprus,1,Southern,2020,"Pandemic / inflation shock",7.6,5.2,35
+CY,Cyprus,1,Southern,2021,"Pandemic / inflation shock",7.2,5,34
+CY,Cyprus,1,Southern,2022,"Pandemic / inflation shock",6.3,4.5,31
+CY,Cyprus,1,Southern,2023,"Pandemic / inflation shock",5.8,4.1,29
+CY,Cyprus,1,Southern,2024,"Recent / provisional",4.8,3.4,25
+CY,Cyprus,1,Southern,2025,"Recent / provisional",4.4,3.1,23
+CZ,Czechia,0,CEE,2018,Pre-COVID,2.2,1.5,121
+CZ,Czechia,0,CEE,2019,Pre-COVID,2,1.3,109
+CZ,Czechia,0,CEE,2020,"Pandemic / inflation shock",2.6,1.7,137
+CZ,Czechia,0,CEE,2021,"Pandemic / inflation shock",2.8,1.9,150
+CZ,Czechia,0,CEE,2022,"Pandemic / inflation shock",2.2,1.5,118
+CZ,Czechia,0,CEE,2023,"Pandemic / inflation shock",2.6,1.7,134
+CZ,Czechia,0,CEE,2024,"Recent / provisional",2.6,1.8,139
+CZ,Czechia,0,CEE,2025,"Recent / provisional",2.8,1.9,151
+DK,Denmark,0,Nordic,2018,Pre-COVID,5.1,3.5,153
+DK,Denmark,0,Nordic,2019,Pre-COVID,5,3.5,152
+DK,Denmark,0,Nordic,2020,"Pandemic / inflation shock",5.6,3.9,171
+DK,Denmark,0,Nordic,2021,"Pandemic / inflation shock",5.1,3.6,155
+DK,Denmark,0,Nordic,2022,"Pandemic / inflation shock",4.5,3.2,139
+DK,Denmark,0,Nordic,2023,"Pandemic / inflation shock",5.1,3.7,162
+DK,Denmark,0,Nordic,2024,"Recent / provisional",6.2,4.6,202
+DK,Denmark,0,Nordic,2025,"Recent / provisional",6.4,4.7,209
+EE,Estonia,1,Baltic,2018,Pre-COVID,5.4,3.9,38
+EE,Estonia,1,Baltic,2019,Pre-COVID,4.5,3.2,31
+EE,Estonia,1,Baltic,2020,"Pandemic / inflation shock",6.9,5,48
+EE,Estonia,1,Baltic,2021,"Pandemic / inflation shock",6.2,4.4,43
+EE,Estonia,1,Baltic,2022,"Pandemic / inflation shock",5.6,4.1,40
+EE,Estonia,1,Baltic,2023,"Pandemic / inflation shock",6.4,4.7,48
+EE,Estonia,1,Baltic,2024,"Recent / provisional",7.6,5.6,57
+EE,Estonia,1,Baltic,2025,"Recent / provisional",7.5,5.6,56
+FI,Finland,1,Nordic,2018,Pre-COVID,7.5,4.9,202
+FI,Finland,1,Nordic,2019,Pre-COVID,6.8,4.5,184
+FI,Finland,1,Nordic,2020,"Pandemic / inflation shock",7.7,5.1,209
+FI,Finland,1,Nordic,2021,"Pandemic / inflation shock",7.7,5.2,212
+FI,Finland,1,Nordic,2022,"Pandemic / inflation shock",6.8,4.6,190
+FI,Finland,1,Nordic,2023,"Pandemic / inflation shock",7.2,5,204
+FI,Finland,1,Nordic,2024,"Recent / provisional",8.4,5.8,238
+FI,Finland,1,Nordic,2025,"Recent / provisional",9.7,6.7,278
+FR,France,1,Western,2018,Pre-COVID,9.1,5.7,2720
+FR,France,1,Western,2019,Pre-COVID,8.5,5.3,2544
+FR,France,1,Western,2020,"Pandemic / inflation shock",8.1,5,2412
+FR,France,1,Western,2021,"Pandemic / inflation shock",7.9,5,2408
+FR,France,1,Western,2022,"Pandemic / inflation shock",7.3,4.6,2264
+FR,France,1,Western,2023,"Pandemic / inflation shock",7.4,4.7,2300
+FR,France,1,Western,2024,"Recent / provisional",7.4,4.8,2331
+FR,France,1,Western,2025,"Recent / provisional",7.7,5,2451
+DE,Germany,1,Western,2018,Pre-COVID,3.2,2.2,1341
+DE,Germany,1,Western,2019,Pre-COVID,2.9,2,1250
+DE,Germany,1,Western,2020,"Pandemic / inflation shock",3.6,2.5,1512
+DE,Germany,1,Western,2021,"Pandemic / inflation shock",3.6,2.5,1517
+DE,Germany,1,Western,2022,"Pandemic / inflation shock",3.1,2.2,1355
+DE,Germany,1,Western,2023,"Pandemic / inflation shock",3.1,2.2,1342
+DE,Germany,1,Western,2024,"Recent / provisional",3.5,2.4,1518
+DE,Germany,1,Western,2025,"Recent / provisional",3.8,2.7,1692
+EL,Greece,1,Southern,2018,Pre-COVID,19.7,11.7,935
+EL,Greece,1,Southern,2019,Pre-COVID,17.9,10.7,847
+EL,Greece,1,Southern,2020,"Pandemic / inflation shock",17.6,10,791
+EL,Greece,1,Southern,2021,"Pandemic / inflation shock",14.7,8.6,678
+EL,Greece,1,Southern,2022,"Pandemic / inflation shock",12.5,7.5,588
+EL,Greece,1,Southern,2023,"Pandemic / inflation shock",11.1,6.7,522
+EL,Greece,1,Southern,2024,"Recent / provisional",10.1,6.2,480
+EL,Greece,1,Southern,2025,"Recent / provisional",8.9,5.4,422
+HU,Hungary,0,CEE,2018,Pre-COVID,3.6,2.3,169
+HU,Hungary,0,CEE,2019,Pre-COVID,3.3,2.1,158
+HU,Hungary,0,CEE,2020,"Pandemic / inflation shock",4.1,2.7,196
+HU,Hungary,0,CEE,2021,"Pandemic / inflation shock",4,2.6,193
+HU,Hungary,0,CEE,2022,"Pandemic / inflation shock",3.6,2.4,174
+HU,Hungary,0,CEE,2023,"Pandemic / inflation shock",4.1,2.8,201
+HU,Hungary,0,CEE,2024,"Recent / provisional",4.5,3.1,220
+HU,Hungary,0,CEE,2025,"Recent / provisional",4.4,3,216
+IE,Ireland,1,Western,2018,Pre-COVID,5.8,3.9,138
+IE,Ireland,1,Western,2019,Pre-COVID,5,3.3,121
+IE,Ireland,1,Western,2020,"Pandemic / inflation shock",5.9,3.8,139
+IE,Ireland,1,Western,2021,"Pandemic / inflation shock",6.2,4.3,160
+IE,Ireland,1,Western,2022,"Pandemic / inflation shock",4.5,3.1,121
+IE,Ireland,1,Western,2023,"Pandemic / inflation shock",4.3,3.1,120
+IE,Ireland,1,Western,2024,"Recent / provisional",4.3,3.1,123
+IE,Ireland,1,Western,2025,"Recent / provisional",4.7,3.4,137
+IT,Italy,1,Southern,2018,Pre-COVID,10.6,6.1,2709
+IT,Italy,1,Southern,2019,Pre-COVID,9.9,5.7,2540
+IT,Italy,1,Southern,2020,"Pandemic / inflation shock",9.3,5.2,2301
+IT,Italy,1,Southern,2021,"Pandemic / inflation shock",9.5,5.3,2367
+IT,Italy,1,Southern,2022,"Pandemic / inflation shock",8.1,4.6,2027
+IT,Italy,1,Southern,2023,"Pandemic / inflation shock",7.7,4.4,1947
+IT,Italy,1,Southern,2024,"Recent / provisional",6.5,3.8,1664
+IT,Italy,1,Southern,2025,"Recent / provisional",6.1,3.6,1576
+LV,Latvia,1,Baltic,2018,Pre-COVID,7.4,5.2,73
+LV,Latvia,1,Baltic,2019,Pre-COVID,6.3,4.4,62
+LV,Latvia,1,Baltic,2020,"Pandemic / inflation shock",8.1,5.7,79
+LV,Latvia,1,Baltic,2021,"Pandemic / inflation shock",7.6,5.1,71
+LV,Latvia,1,Baltic,2022,"Pandemic / inflation shock",6.9,4.7,65
+LV,Latvia,1,Baltic,2023,"Pandemic / inflation shock",6.5,4.5,62
+LV,Latvia,1,Baltic,2024,"Recent / provisional",6.9,4.8,65
+LV,Latvia,1,Baltic,2025,"Recent / provisional",6.9,4.8,66
+LT,Lithuania,1,Baltic,2018,Pre-COVID,6.2,4.3,90
+LT,Lithuania,1,Baltic,2019,Pre-COVID,6.3,4.4,92
+LT,Lithuania,1,Baltic,2020,"Pandemic / inflation shock",8.5,6,126
+LT,Lithuania,1,Baltic,2021,"Pandemic / inflation shock",7.1,5,105
+LT,Lithuania,1,Baltic,2022,"Pandemic / inflation shock",6,4.2,90
+LT,Lithuania,1,Baltic,2023,"Pandemic / inflation shock",6.9,4.8,106
+LT,Lithuania,1,Baltic,2024,"Recent / provisional",7.1,5.1,112
+LT,Lithuania,1,Baltic,2025,"Recent / provisional",6.9,4.9,108
+LU,Luxembourg,1,Western,2018,Pre-COVID,5.6,3.6,17
+LU,Luxembourg,1,Western,2019,Pre-COVID,5.6,3.7,17
+LU,Luxembourg,1,Western,2020,"Pandemic / inflation shock",6.8,4.4,21
+LU,Luxembourg,1,Western,2021,"Pandemic / inflation shock",5.3,3.5,17
+LU,Luxembourg,1,Western,2022,"Pandemic / inflation shock",4.6,3.1,15
+LU,Luxembourg,1,Western,2023,"Pandemic / inflation shock",5.2,3.5,18
+LU,Luxembourg,1,Western,2024,"Recent / provisional",6.4,4.3,22
+LU,Luxembourg,1,Western,2025,"Recent / provisional",6.5,4.4,23
+MT,Malta,1,Southern,2018,Pre-COVID,4,2.5,10
+MT,Malta,1,Southern,2019,Pre-COVID,4.1,2.7,11
+MT,Malta,1,Southern,2020,"Pandemic / inflation shock",4.9,3.2,13
+MT,Malta,1,Southern,2021,"Pandemic / inflation shock",3.8,2.5,10
+MT,Malta,1,Southern,2022,"Pandemic / inflation shock",3.5,2.4,10
+MT,Malta,1,Southern,2023,"Pandemic / inflation shock",3.5,2.5,11
+MT,Malta,1,Southern,2024,"Recent / provisional",3.2,2.3,10
+MT,Malta,1,Southern,2025,"Recent / provisional",3.1,2.3,10
+NL,Netherlands,1,Western,2018,Pre-COVID,4.9,3.6,459
+NL,Netherlands,1,Western,2019,Pre-COVID,4.4,3.3,423
+NL,Netherlands,1,Western,2020,"Pandemic / inflation shock",4.9,3.6,466
+NL,Netherlands,1,Western,2021,"Pandemic / inflation shock",4.2,3.1,408
+NL,Netherlands,1,Western,2022,"Pandemic / inflation shock",3.5,2.6,350
+NL,Netherlands,1,Western,2023,"Pandemic / inflation shock",3.6,2.7,359
+NL,Netherlands,1,Western,2024,"Recent / provisional",3.7,2.8,372
+NL,Netherlands,1,Western,2025,"Recent / provisional",3.9,3,396
+PL,Poland,0,CEE,2018,Pre-COVID,3.9,2.4,659
+PL,Poland,0,CEE,2019,Pre-COVID,3.3,2,567
+PL,Poland,0,CEE,2020,"Pandemic / inflation shock",3.2,1.9,552
+PL,Poland,0,CEE,2021,"Pandemic / inflation shock",3.4,2.1,599
+PL,Poland,0,CEE,2022,"Pandemic / inflation shock",2.9,1.8,511
+PL,Poland,0,CEE,2023,"Pandemic / inflation shock",2.8,1.8,502
+PL,Poland,0,CEE,2024,"Recent / provisional",2.9,1.8,512
+PL,Poland,0,CEE,2025,"Recent / provisional",3.1,2,558
+PT,Portugal,1,Southern,2018,Pre-COVID,7.2,4.7,366
+PT,Portugal,1,Southern,2019,Pre-COVID,6.6,4.3,339
+PT,Portugal,1,Southern,2020,"Pandemic / inflation shock",7.1,4.5,354
+PT,Portugal,1,Southern,2021,"Pandemic / inflation shock",6.7,4.4,344
+PT,Portugal,1,Southern,2022,"Pandemic / inflation shock",6.2,4.1,323
+PT,Portugal,1,Southern,2023,"Pandemic / inflation shock",6.5,4.4,351
+PT,Portugal,1,Southern,2024,"Recent / provisional",6.5,4.4,351
+PT,Portugal,1,Southern,2025,"Recent / provisional",6,4.1,337
+RO,Romania,0,CEE,2018,Pre-COVID,5.3,2.9,429
+RO,Romania,0,CEE,2019,Pre-COVID,4.9,2.7,400
+RO,Romania,0,CEE,2020,"Pandemic / inflation shock",6.1,3.4,497
+RO,Romania,0,CEE,2021,"Pandemic / inflation shock",5.6,3.2,459
+RO,Romania,0,CEE,2022,"Pandemic / inflation shock",5.6,3.2,465
+RO,Romania,0,CEE,2023,"Pandemic / inflation shock",5.6,3.2,456
+RO,Romania,0,CEE,2024,"Recent / provisional",5.4,3.1,451
+RO,Romania,0,CEE,2025,"Recent / provisional",6.1,3.5,500
+SK,Slovakia,1,CEE,2018,Pre-COVID,6.5,4.3,184
+SK,Slovakia,1,CEE,2019,Pre-COVID,5.7,3.8,161
+SK,Slovakia,1,CEE,2020,"Pandemic / inflation shock",6.7,4.4,186
+SK,Slovakia,1,CEE,2021,"Pandemic / inflation shock",6.8,4.5,188
+SK,Slovakia,1,CEE,2022,"Pandemic / inflation shock",6.1,4.1,170
+SK,Slovakia,1,CEE,2023,"Pandemic / inflation shock",5.8,3.9,162
+SK,Slovakia,1,CEE,2024,"Recent / provisional",5.3,3.6,148
+SK,Slovakia,1,CEE,2025,"Recent / provisional",5.4,3.6,150
+SI,Slovenia,1,CEE,2018,Pre-COVID,5.1,3.3,52
+SI,Slovenia,1,CEE,2019,Pre-COVID,4.4,2.9,45
+SI,Slovenia,1,CEE,2020,"Pandemic / inflation shock",5,3.2,51
+SI,Slovenia,1,CEE,2021,"Pandemic / inflation shock",4.8,3.1,48
+SI,Slovenia,1,CEE,2022,"Pandemic / inflation shock",4,2.6,41
+SI,Slovenia,1,CEE,2023,"Pandemic / inflation shock",3.7,2.4,38
+SI,Slovenia,1,CEE,2024,"Recent / provisional",3.7,2.4,38
+SI,Slovenia,1,CEE,2025,"Recent / provisional",3.9,2.5,40
+ES,Spain,1,Southern,2018,Pre-COVID,15.3,9.9,3479
+ES,Spain,1,Southern,2019,Pre-COVID,14.1,9.1,3248
+ES,Spain,1,Southern,2020,"Pandemic / inflation shock",15.5,9.9,3531
+ES,Spain,1,Southern,2021,"Pandemic / inflation shock",14.9,9.6,3476
+ES,Spain,1,Southern,2022,"Pandemic / inflation shock",13,8.5,3079
+ES,Spain,1,Southern,2023,"Pandemic / inflation shock",12.2,8,2937
+ES,Spain,1,Southern,2024,"Recent / provisional",11.4,7.4,2771
+ES,Spain,1,Southern,2025,"Recent / provisional",10.5,6.9,2608
+SE,Sweden,0,Nordic,2018,Pre-COVID,6.5,4.7,349
+SE,Sweden,0,Nordic,2019,Pre-COVID,6.9,5,377
+SE,Sweden,0,Nordic,2020,"Pandemic / inflation shock",8.5,6.2,466
+SE,Sweden,0,Nordic,2021,"Pandemic / inflation shock",8.9,6.6,493
+SE,Sweden,0,Nordic,2022,"Pandemic / inflation shock",7.5,5.6,421
+SE,Sweden,0,Nordic,2023,"Pandemic / inflation shock",7.7,5.8,440
+SE,Sweden,0,Nordic,2024,"Recent / provisional",8.4,6.3,480
+SE,Sweden,0,Nordic,2025,"Recent / provisional",8.8,6.7,510
